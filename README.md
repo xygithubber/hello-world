@@ -1,4 +1,4 @@
 # hello-world
 THIS IS MY FIRST REPOSITORY
 Hey I'm on Github
-I don't know what I am doing here
+I want to go home and relax a bit
